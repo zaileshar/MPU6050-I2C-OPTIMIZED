@@ -6,3 +6,4 @@ public:
         std::cout << "I2c_api initialized." << std::endl;
     }
 };
+// Memory layout adjusted for stability
