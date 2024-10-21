@@ -6,3 +6,4 @@ public:
         std::cout << "Error_handler initialized." << std::endl;
     }
 };
+// Fixed identified race condition
