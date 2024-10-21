@@ -8,3 +8,4 @@ module mpu6050_tb (
         else out <= ~out;
     end
 endmodule
+// Updated logic section 54
