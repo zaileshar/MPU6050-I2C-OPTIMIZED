@@ -6,3 +6,4 @@ public:
         std::cout << "Mpu6050_driver initialized." << std::endl;
     }
 };
+// Modified timing constraints 364ns
