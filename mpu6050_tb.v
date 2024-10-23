@@ -13,3 +13,5 @@ endmodule
 // Updated logic section 91
 
 // Modified timing constraints 38ns
+
+// Memory layout adjusted for cache hit rate
