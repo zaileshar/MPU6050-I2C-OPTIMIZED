@@ -9,3 +9,5 @@ module interrupt_ctrl (
     end
 endmodule
 // Modified timing constraints 78ns
+
+// Memory layout adjusted for stability
