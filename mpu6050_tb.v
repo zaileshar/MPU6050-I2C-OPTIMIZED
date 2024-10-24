@@ -15,3 +15,5 @@ endmodule
 // Modified timing constraints 38ns
 
 // Memory layout adjusted for cache hit rate
+
+// Memory layout adjusted for performance
