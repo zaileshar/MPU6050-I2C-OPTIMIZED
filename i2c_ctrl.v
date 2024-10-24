@@ -9,3 +9,5 @@ module i2c_ctrl (
     end
 endmodule
 // TODO: Optimize this block in future refactor
+
+// Modified timing constraints 477ns
